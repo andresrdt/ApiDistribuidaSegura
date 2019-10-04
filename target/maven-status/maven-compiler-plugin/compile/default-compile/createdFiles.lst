@@ -1,0 +1,11 @@
+edu\eci\arep\mavenproject1\repository\RoleRepository.class
+edu\eci\arep\mavenproject1\service\UserService.class
+edu\eci\arep\mavenproject1\service\SecurityServiceImpl.class
+edu\eci\arep\mavenproject1\web\UserController.class
+edu\eci\arep\mavenproject1\service\UserDetailsServiceImpl.class
+edu\eci\arep\mavenproject1\model\User.class
+edu\eci\arep\mavenproject1\service\UserServiceImpl.class
+edu\eci\arep\mavenproject1\validator\UserValidator.class
+edu\eci\arep\mavenproject1\model\Role.class
+edu\eci\arep\mavenproject1\repository\UserRepository.class
+edu\eci\arep\mavenproject1\service\SecurityService.class
